@@ -1,0 +1,19 @@
+C:\Users\lab2d\AppData\Local\Temporary Projects\Durar Line Counter\bin\Debug\Durar Line Counter.exe
+C:\Users\lab2d\AppData\Local\Temporary Projects\Durar Line Counter\bin\Debug\Durar Line Counter.pdb
+C:\Users\lab2d\AppData\Local\Temporary Projects\Durar Line Counter\obj\x86\Debug\Durar_Line_Counter.Form1.resources
+C:\Users\lab2d\AppData\Local\Temporary Projects\Durar Line Counter\obj\x86\Debug\Durar_Line_Counter.Properties.Resources.resources
+C:\Users\lab2d\AppData\Local\Temporary Projects\Durar Line Counter\obj\x86\Debug\Durar Line Counter.csproj.GenerateResource.Cache
+C:\Users\lab2d\AppData\Local\Temporary Projects\Durar Line Counter\obj\x86\Debug\Durar Line Counter.exe
+C:\Users\lab2d\AppData\Local\Temporary Projects\Durar Line Counter\obj\x86\Debug\Durar Line Counter.pdb
+F:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar Line Counter.exe
+F:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar Line Counter.pdb
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar Line Counter.exe
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar Line Counter.pdb
+E:\Durar Line Counter\Durar Line Counter\bin\Debug\Durar Line Counter.exe
+E:\Durar Line Counter\Durar Line Counter\bin\Debug\Durar Line Counter.pdb
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar_Line_Counter.FilteredDirectory.resources
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar_Line_Counter.Form1.resources
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar_Line_Counter.Properties.Resources.resources
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar Line Counter.csproj.GenerateResource.Cache
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar_Line_Counter.Result.resources
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Debug\Durar Line Counter.csprojResolveAssemblyReference.cache

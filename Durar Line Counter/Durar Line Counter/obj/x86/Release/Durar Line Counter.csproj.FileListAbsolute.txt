@@ -1,0 +1,9 @@
+E:\Durar Line Counter\Durar Line Counter\bin\Release\Durar Line Counter.exe
+E:\Durar Line Counter\Durar Line Counter\bin\Release\Durar Line Counter.pdb
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Release\Durar_Line_Counter.FilteredDirectory.resources
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Release\Durar_Line_Counter.Form1.resources
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Release\Durar_Line_Counter.Properties.Resources.resources
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Release\Durar_Line_Counter.Result.resources
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Release\Durar Line Counter.csproj.GenerateResource.Cache
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Release\Durar Line Counter.exe
+E:\Durar Line Counter\Durar Line Counter\obj\x86\Release\Durar Line Counter.pdb
