@@ -28,8 +28,7 @@ namespace Durar_Line_Counter
                 listView1.Items.Add(lvi);
             }
         }
-		
-		//
+
         private void button3_Click(object sender, EventArgs e)
         {
             // Add a list of files from a directory with determined rules
